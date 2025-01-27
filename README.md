@@ -1,3 +1,8 @@
+# Output:
+![image](https://github.com/user-attachments/assets/c85412f4-4a03-4c51-8b07-29f8cb372931)
+
+--
+
 # A Terribly Weighty Subject (Java)
 
 You can find the instructions for this lab [here](https://morethanequations.com/Computer-Science/Labs/A-Terribly-Weighty-Subject). Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
